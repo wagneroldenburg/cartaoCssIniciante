@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+
+}
+.fundo{
+    background-image: url(../project/backgorund.png);
+    height: 200px;
+    width: 400px;
+    box-sizing: border-box;
+    margin: auto;
+    background-size: cover;
+    padding: 1px 20px;
+    margin-top: 100px;
+}
+
+h1{
+    font-size: 28px;
+    font-family: "Comic Sans MS", sans-serif;
+
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-family: "Comic Sans MS", sans-serif;
+}
+
+.insta{
+    list-style-image: url(../project/Insta.png);
+}
+
+.twitter{
+    list-style-image: url(../project/Twitter.png);
+}
+
+.youtube{
+    list-style-image: url(../project/Youtube.png);
+}
+
+
+
